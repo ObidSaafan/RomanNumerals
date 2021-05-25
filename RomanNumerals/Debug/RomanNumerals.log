@@ -1,0 +1,5 @@
+﻿  RomanNumerals.cpp
+C:\Users\obid1\source\repos\RomanNumerals\RomanNumerals.cpp(38,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\obid1\source\repos\RomanNumerals\RomanNumerals.cpp(190,18): warning C4101: 'chro2': unreferenced local variable
+C:\Users\obid1\source\repos\RomanNumerals\RomanNumerals.cpp(190,7): warning C4101: 'chro1': unreferenced local variable
+  RomanNumerals.vcxproj -> C:\Users\obid1\source\repos\RomanNumerals\Debug\RomanNumerals.exe
